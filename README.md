@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vipul Shah</h1>
 <h3 align="center">MERN devloper with (major on frontend) from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevipinmishra&label=Profile%20views&color=0e75b6&style=flat" alt="thevipinmishra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevipinmishra" alt="thevipinmishra" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SV96&label=Profile%20views&color=0e75b6&style=flat" alt="thevipinmishra" /> </p>
 
 - 👨‍💻 Recently created project article [https://sv96.github.io/React-Query/] React Query 
 
