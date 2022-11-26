@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Shah</h1>
-<h3 align="center">MERN devloper with mafor on frontend from India.</h3>
+<h3 align="center">MERN devloper with (major on frontend) from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thevipinmishra&label=Profile%20views&color=0e75b6&style=flat" alt="thevipinmishra" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 Recently created project article [https://sv96.github.io/React-Query/] React Query 
 
-- 📝 Leraning C
+- 📝 Leraning Firebase, GraphQL
 
 - 💬 Ask me about **ReactJS & Python**
 
@@ -37,6 +37,4 @@
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevipinmishra&show_icons=true&locale=en&layout=compact" alt="thevipinmishra" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevipinmishra&show_icons=true&locale=en" alt="thevipinmishra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SV96&show_icons=true&locale=en&layout=compact" alt="thevipinmishra" /></p>
