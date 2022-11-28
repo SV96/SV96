@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vipul Shah</h1>
-<h3 align="center">MERN devloper with (major on frontend) from India.</h3>
+<h3 align="center">Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SV96&label=Profile%20views&color=0e75b6&style=flat" alt="thevipinmishra" /> </p>
 
@@ -25,3 +25,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SV96&show_icons=true&locale=en&layout=compact" alt="thevipinmishra" /></p>
+<p>I protect 🛡️, I attack 🗡️, but most importantly, I React ⚛️!</p>
