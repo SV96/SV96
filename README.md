@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SV96&label=Profile%20views&color=0e75b6&style=flat" alt="thevipinmishra" /> </p>
 
-- 👨‍💻 Recently created project article [React Query](https://sv96.github.io/React-Query/)
+- 👨‍💻 Recently created article [React Query](https://sv96.github.io/React-Query/)
 
-- 📝 Leraning Firebase, GraphQL
+- 📝 Leraning NextJS, GraphQL
 
 - 💬 Ask me about **ReactJS & Python**
 
